@@ -1,0 +1,14 @@
+/*
+** My Styles
+*/
+
+div.tc-tiddler-frame {
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.tc-tiddler-frame .tc-tiddler-controls {
+font-size: 0.8em;
+}

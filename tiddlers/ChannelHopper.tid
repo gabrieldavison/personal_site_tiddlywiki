@@ -1,0 +1,11 @@
+created: 20210516145138035
+modified: 20210516171723863
+tags: project featured
+title: ChannelHopper
+type: text/vnd.tiddlywiki
+
+[img[./files/images/project_screenshots/channelhopper.png]]
+
+[[demo |https://channelhopper.ch1p.net/]] | [[source |https://github.com/gabrieldavison/channel-hopper]]
+
+A  video synthesizer that wraps [[hydra-synth |https://github.com/ojack/hydra-synth]] with an interface that lets you trigger bits of code with your keyboard.

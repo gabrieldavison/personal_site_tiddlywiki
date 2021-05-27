@@ -1,0 +1,11 @@
+created: 20210516172542546
+modified: 20210516172820441
+tags: project featured
+title: spacetimeJS
+type: text/vnd.tiddlywiki
+
+[img[./files/images/project_screenshots/spacetimejs.png]]
+
+[[demo |https://gabrieldavison.github.io/spacetimeJS/]] | [[source |https://github.com/gabrieldavison/spacetimeJS]]
+
+A command based musical sequencer that can be played using a computer keyboard. It uses an instance of [[engine]] to generate sound. It’s inspired by the [[spacetime study for the monome norns |https://monome.org/docs/norns/study-3/]].

@@ -1,0 +1,13 @@
+created: 20210516152922084
+modified: 20210516154003635
+tags: 
+title: All Projects
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[project]]">
+
+<$link><<currentTiddler>> </$link>
+
+{{!!text}}
+
+</$list>
