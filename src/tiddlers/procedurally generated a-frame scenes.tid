@@ -1,11 +1,12 @@
 created: 20210516164328726
-modified: 20210516165352916
+modified: 20210607150349812
 tags: in_progress clojurescript a-frame vr
 title: procedurally generated a-frame scenes
 type: text/vnd.tiddlywiki
 
-Experiments in using clojurescript to procedurally generate VR scenes with [[a-frame|https://aframe.io/]].
+Experiments in using clojurescript to VR scenes with [[a-frame|https://aframe.io/]].
 
-At the moment I'm prototyping a way to build the scenes with randomized parameters that actually look good as I try and get my head around clojurescript.
+At the moment I'm prototyping a way to build the scenes out of primitive shapes with procedurally generated parameters.
 
-Nothing to show yet but early experiments are looking really good. 
+
+[ext[an example scene|./files/pages/a-frame/test-export.html]]
